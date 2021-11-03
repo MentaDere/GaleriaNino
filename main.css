@@ -1,0 +1,25 @@
+header {
+    background-color: aqua;
+    border: auto;
+    border-radius: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+section {
+    background-color: lawngreen;
+}
+
+h2 {
+     font-family: sans-serif;
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
